@@ -1,7 +1,7 @@
 # agapov97_infra
 agapov97 Infra repository
 
-##ДЗ 3
+## ДЗ 3
 
 Поднято 2 сервера:
  - bastion - слушающий внешнюю сеть
@@ -16,7 +16,7 @@ agapov97 Infra repository
 bastion_IP = 35.205.237.167
 someinternalhost_IP = 10.132.0.3
 
-##ДЗ 4
+## ДЗ 4
 
 В ходе выполнения дз произошло знакомство с консольной утилитой gcloud, было поднято приложение reddit
 

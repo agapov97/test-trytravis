@@ -6,6 +6,11 @@ variable region {
   # Значение по умолчанию
   default = "europe-west1"
 }
+variable instances_count {
+  description = "Instances count"
+  # Значение по умолчанию
+  default = 1
+}
 variable instance_region {
   description = "Instance region"
   # Значение по умолчанию
